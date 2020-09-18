@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:text="Redmi Note 8 smartphone was launched on 29th August 2019. The phone comes with a 6.30-inch touchscreen display with a resolution of 1080x2280 pixels and an aspect ratio of 19.5:9.
+Redmi Note 8 is powered by an octa-core Qualcomm Snapdragon 665 processor. It comes with 3GB of RAM.
+The Redmi Note 8 runs Android 9 Pie and is powered by a 4000mAh non-removable battery. The Redmi Note 8 supports proprietary fast charging.
+As far as the cameras are concerned, the Redmi Note 8 on the rear packs a 48-megapixel primary camera with an f/1.79 aperture; a second 8-megapixel camera with an f/2.2 aperture; a third 2-megapixel camera with an f/2.4 aperture and a fourth 2-megapixel camera with an f/2.4 aperture. The rear camera setup has autofocus. It sports a 13-megapixel camera on the front for selfies, with an f/2.0 aperture.
+The Redmi Note 8 runs MIUI 10 based on Android 9 Pie and packs 32GB of inbuilt storage that can be expanded via microSD card (up to 512GB) with a dedicated slot. The Redmi Note 8 is a dual-SIM (GSM and GSM) smartphone that accepts Nano-SIM and Nano-SIM cards.
+Connectivity options on the Redmi Note 8 include Wi-Fi 802.11 a/b/g/n/ac, GPS, USB Type-C, 3G, and 4G (with support for Band 40 used by some LTE networks in India) with active 4G on both SIM cards. Sensors on the phone include accelerometer, ambient light sensor, compass/ magnetometer, gyroscope, proximity sensor, and fingerprint sensor. The Redmi Note 8 supports face unlock.
+The Redmi Note 8 measures 158.30 x 75.30 x 8.35mm (height x width x thickness) and weighs 188.00 grams. It was launched in Moonlight White, Neptune Blue, and Space Black colours. It bears a glass body.
+As of 9th January 2020, Redmi Note 8 price in India starts at Rs. 8,590." />
+</FrameLayout>

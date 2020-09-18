@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/product_details_container"
+    android:background="@color/colorAccent"
+    android:elevation="3dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/product_details_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#d4d4d4"
+        android:padding="16dp"
+        android:text="Product Details"
+        android:textColor="#9c9c9c"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/product_details_body"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Xiaomi Redmi Note 8 smartphone runs on Android v9.0 (Pie) operating system. The phone is powered by Octa core (2 GHz, Quad core, Kryo 260 + 1.8 GHz, Quad core, Kryo 260) processor. It runs on the Qualcomm Snapdragon 665 Chipset. It has 4 GB RAM and 64 GB internal storage.
+Xiaomi Redmi Note 8 smartphone has a IPS LCD display. It measures 158.3 mm x 75.3 mm x 8.3 mm and weighs 188 grams. The screen has a resolution of 1080 x 2340 pixels and 409 ppi pixel density. It has an aspect ratio of 19.5:9 and screen-to-body ratio of 83.91 %. On camera front, the buyers get a 13 MP Front Camera and on the rear, there's an 48+8+2+2 MP camera with features like Digital Zoom, Auto Flash, Face detection, Touch to focus. It is backed by a 4000 mAh battery. Connectivity features in the smartphone include WiFi, Bluetooth, GPS, Volte, and more."
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/product_details_title" />
+</androidx.constraintlayout.widget.ConstraintLayout>

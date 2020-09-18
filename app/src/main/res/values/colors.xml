@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorSignIn">#000000</color>
+    <color name="btnGreen">#32cd32</color>
+    <color name="primaryRed">#ff0000</color>
+    <color name="RecyclerViewBackground">#d6d6d6</color>
+</resources>

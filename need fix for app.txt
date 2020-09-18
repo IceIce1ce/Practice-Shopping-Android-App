@@ -1,0 +1,8 @@
+star image
+resize cart icon
+happy shopping image
+no internet connection
+opacity of icon_placeholder
+resize banner_placeholder
+disabledCloseBtn
+change color heading bar to red 
